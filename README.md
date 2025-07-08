@@ -71,7 +71,7 @@ News-Portal/
 ## 👨‍💻 Author
 
 **Haasitha Kodali**
-[Email](mailto:kodalihaasitha@gmail.com) | [LinkedIn](https://linkedin.com/in/KodaliHaasitha)
+[Email](mailto:kodalihaasitha@gmail.com)
 
 ---
 
